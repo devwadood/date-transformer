@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devwadood/date-transformer.git"
+    "url": "git+https://github.com/devwadood/date-transformer.git"
   },
   "homepage": "https://github.com/devwadood/date-transformer#readme",
   "bugs": {
