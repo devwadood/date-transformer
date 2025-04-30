@@ -23,5 +23,8 @@
   "homepage": "https://github.com/devwadood/date-transformer#readme",
   "bugs": {
     "url": "https://github.com/devwadood/date-transformer/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
