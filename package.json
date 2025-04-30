@@ -8,6 +8,14 @@
     "build": "tsc"
   },
   "keywords": ["date", "transform", "formatter", "typescript", "npm"],
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "Abdul Wadood",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devwadood/date-transformer.git"
+  },
+  "homepage": "https://github.com/devwadood/date-transformer#readme",
+  "bugs": {
+    "url": "https://github.com/devwadood/date-transformer/issues"
+  }
 }
