@@ -1,5 +1,5 @@
 {
-  "name": "date-transformer",
+  "name": "@devwadood/date-transformer",
   "version": "1.0.1",
   "description": "Transform a date into any string format like YYYY-MM-DD, hh:mm A, etc.",
   "main": "dist/index.js",
@@ -26,5 +26,10 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
+    "user": "^0.0.0"
   }
 }
