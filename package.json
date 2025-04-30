@@ -1,0 +1,13 @@
+{
+  "name": "date-transformer",
+  "version": "1.0.0",
+  "description": "Transform a date into any string format like YYYY-MM-DD, hh:mm A, etc.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["date", "transform", "formatter", "typescript", "npm"],
+  "author": "Your Name",
+  "license": "MIT"
+}

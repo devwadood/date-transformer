@@ -1,2 +1,8 @@
 # date-transformer
-A package to transform date to any type.
+
+🕒 A lightweight date formatting utility for Node.js and TypeScript.
+
+## Install
+
+```bash
+npm install date-transformer
